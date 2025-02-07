@@ -1,0 +1,1 @@
+The CSS property `filter: blur(5px);` is applied to an element with a background-image. The blur effect is not applied correctly or looks unusual.  The image appears to be blurred independently of the element's background, or the blur is limited only to the element's content and not the background.
